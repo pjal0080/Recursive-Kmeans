@@ -10,5 +10,5 @@ of the cluster in which it is present.
 
 Here ,I have performed recursive KMeans on two datasets,first one is the Iris dataset and 
 second one is gene expression cancer RNA-Seq Data Set(link : https://archive.ics.uci.edu/ml/datasets/gene+expression+cancer+RNA-Seq#).
-The results can be seen on the notebooks thats been uploaded.
+The results can be visualised on the notebooks thats been uploaded and pure code can be seen on the .py files.
 
